@@ -1,4 +1,6 @@
 # offline-editor `||` livecode
+demo: https://wd4q5dy.github.io/offline-editor/livecode/
+
 (i couldn't decide on the name apparently)
 
 contains a textarea that just runs whatever javascript you put in on the left on input
